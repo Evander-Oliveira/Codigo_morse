@@ -1,0 +1,48 @@
+body {
+  background-image: url(https://preview.redd.it/4j12nz9jxj731.png?auto=webp&s=fc7b15725e17633cf19e0a07f9411e0d588e2858);
+  background-size: 700px;
+  background-position: center;
+  Background-attachment:fixed;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+h1, p {
+  margin: 1em auto;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  text-shadow: 0.2em 0.2em 0.2em rgb(41, 240, 249);
+}
+
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+  color: white;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+  text-shadow: 0.2em 0.2em 0.2em rgb(41, 240, 249);
+}
+
+input,
+textarea,
+select {
+  margin: 10px 0 50px 0;
+  width: 100%;
+  min-height: 2em;
+}
+
+.Enviar{
+  margin-top: -40px;
+}
+
+

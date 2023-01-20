@@ -1,0 +1,64 @@
+body{
+  font-family: monospace;
+  background-image: url(https://preview.redd.it/4j12nz9jxj731.png?auto=webp&s=fc7b15725e17633cf19e0a07f9411e0d588e2858);
+  Background-attachment: fixed;
+  background-size: 300px;
+  Background-repet: no-repet;
+  color: white;
+}
+
+.brilho {
+  margin: auto;
+  width: 1000px;
+  left: 400px;
+  position: absolute;
+  font-size: 0px; 
+  top: 30px;
+  box-shadow: 50px 50px 150px 25px rgb(41, 240, 249);
+}
+
+img{
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  font-size: 45px;
+  text-decoration: underline;
+}
+.paragrafo, h2{
+  text-shadow: 0.1em 0.1em 1em rgb(41, 240, 249);
+  text-align: justify
+}
+
+.corpo{
+  width: 66%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+}
+.paragrafo{
+  font-size: 20px;
+}
+.paginas{
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0.1em 0.2em 0.3em rgb(41, 240, 249);
+}
+article{
+  font-family: monospace;
+}
+a {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: rgb(41, 240, 249);
+}
+a:active {
+  color: black;
+}
